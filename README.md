@@ -1,8 +1,21 @@
 # ARK: Survival Evolved
 [PvE]Yorozu_Server_The_Island[JPOnly]
-## The Island
 
-### MODs
+## ログイン手順
+1. Steamクライアントを起動する
+2. メニューの [表示] から [サーバー] を選択する
+3. [サーバ－を追加] ボタンをクリックする
+4. okuchi-yorozu.ddns.net:27015 を入力して [このアドレスをお気に入りに追加] をクリックする
+5. ARK: Survival Evolvedクライアントを起動する
+6. [サーバー検索] でセッションフィルターを [お気に入り] にする
+7. [PvE]Yorozu_Server_The_Island[JPOnly] を選択して [開始] ボタンをクリックする
+8. パスワードを入力して [決定] をクリックする（パスワードは [@okuchi_yorozu](https://twitter.com/okuchi_yorozu) に聞く）  
+※はじめてログインするときは MODs のインストールで何度かタイムアウトするので3～4 回 8. を繰り返す
+9. ログインできたー！
+
+## マップ
+### The Island
+#### MODs
 |No.|MOD名|概要|
 |----|----|----|
 |1|[Ammo Switcher](https://steamcommunity.com/sharedfiles/filedetails/?id=1439559887)|インベントリを開くことなく弾薬の種類を切り替えられるようにする|
@@ -20,15 +33,15 @@
 |13|[Builder's Improvements (vanilla improved)](https://steamcommunity.com/sharedfiles/filedetails/?id=854186603)|構造物のスナップポイントを増やす|
 |14|[Dino Tracker](https://steamcommunity.com/sharedfiles/filedetails/?id=924933745)|迷子のディノを探すツール|
 
-### Settings
-#### プレイヤー
+#### Settings
+##### プレイヤー
 - 取得経験値: 3倍
 - 水分消費速度: 0.5倍
 - 食料消費速度: 0.5倍
-#### 基本ステータス/レベル毎のステータス
+##### 基本ステータス/レベル毎のステータス
 - 体力: 1.2倍
 - 重量: 1.2倍
 - 水分: 1.2倍
-#### 恐竜
+##### 恐竜
 - 食料低下（野生）: 4倍
 - 収穫物への攻撃: 3倍
