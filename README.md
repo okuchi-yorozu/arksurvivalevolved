@@ -19,7 +19,7 @@
 |No.|MOD名|概要|
 |----|----|----|
 |1|[Ammo Switcher](https://steamcommunity.com/sharedfiles/filedetails/?id=1439559887)|インベントリを開くことなく弾薬の種類を切り替えられるようにする|
-|2|[All Dinos Allow Guns](https://steamcommunity.com/sharedfiles/filedetails/?id=1440414363)|ディノに乗りながら、手に銃や武器などを装備できるようにする|
+|2|[All Dinos Allow Guns](https://steamcommunity.com/sharedfiles/filedetails/?id=1440414363)|恐竜に乗りながら、手に銃や武器などを装備できるようにする|
 |3|[TorchBoost](https://steamcommunity.com/sharedfiles/filedetails/?id=478736056)|松明の照らす光の半径を増加させる|
 |4|[Better Beacons 2.0](https://steamcommunity.com/sharedfiles/filedetails/?id=506506101)|ビーコンからちょっと良いものが出る|
 |5|[Death Helper](https://steamcommunity.com/sharedfiles/filedetails/?id=566885854)|最後に死んだ場所を示す|
@@ -31,7 +31,7 @@
 |11|[Upgrade Station v1.8i](https://steamcommunity.com/sharedfiles/filedetails/?id=821530042)|道具の品質を上げられるようになる|
 |12|[HG Stacking Mod 5000-90 V316](https://steamcommunity.com/sharedfiles/filedetails/?id=849985437)|素材アイテムをたくさん持てるようになる|
 |13|[Builder's Improvements (vanilla improved)](https://steamcommunity.com/sharedfiles/filedetails/?id=854186603)|構造物のスナップポイントを増やす|
-|14|[Dino Tracker](https://steamcommunity.com/sharedfiles/filedetails/?id=924933745)|迷子のディノを探すツール|
+|14|[Dino Tracker](https://steamcommunity.com/sharedfiles/filedetails/?id=924933745)|迷子の恐竜を探すツール|
 
 #### Settings
 ##### プレイヤー
